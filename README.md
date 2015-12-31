@@ -1,5 +1,5 @@
 # Tweet-Alerter
-#YOU WILL NEED TWEEPY. TO INSTALL DO pip install tweepy
+YOU WILL NEED TWEEPY. TO INSTALL DO pip install tweepy
 
 This is a script that searches for new tweets from a user.
 Don't forget to replace key with  your own keys!
